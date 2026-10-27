@@ -4,9 +4,9 @@ import RoomDetails from './RoomDetails'
 function Rooms() {
     return (
         <section>
-        <h2>Номери</h2>
-<RoomList />
-<RoomDetails />
+            <h2>Номери</h2>
+            <RoomList />
+            <RoomDetails />
         </section>
     )
 }
